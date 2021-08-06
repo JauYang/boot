@@ -1,0 +1,4 @@
+server:
+  port: 4444
+pulsar:
+  service-url: pulsar://172.16.4.21:6650
